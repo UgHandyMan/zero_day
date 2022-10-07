@@ -1,0 +1,1 @@
+Vagrant task read only file
